@@ -1,0 +1,1 @@
+Given the files iris.csv and letter-recognition.csv , they get through a normalizing process that creates new files . Then the normalized files go through the ENN and IB2 and 2 new files with reduced data are created with the results of each one of the algorithms.
